@@ -71,7 +71,7 @@ It produces two CLI programs: one for moving around the mandelbrot set in real-t
 The static generator can generate fractals of the mandelbrot set, convering power towers, and zeros of complex polynomials using Newton's method.
 It can also rotate the result on the Riemann Sphere which produces some interesting results.
 
-<div style="display: flex; justify-content: center; gap: 0.25rem 1%; flex-wrap: wrap; align-items: flex-start;">
+<div style="display: flex; justify-content: center; gap: 1rem 1%; flex-wrap: wrap; align-items: flex-start;">
     <img src="assets/mandelbrot-green-teardrop.png" 
          alt="Mandelbrot fractal" 
          style="width: 49.5%; height: auto; border-radius: 0.5rem;">
