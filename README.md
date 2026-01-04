@@ -29,6 +29,17 @@ The implementation I use does a more thorough check and does not return false po
 
 repo: https://github.com/nathanstouffer/hillshade
 
+This project has two components.
+It started off as an exploration of cartographic hillshading as well as a way to utilize `stf` in a real project.
+But it also grew to be the basis for a submission in the Summer of Math Exposition 4 ([SoME](https://some.3b1b.co/)).
+
+This is a really fun project because it shows how pretty simple mathematics can be the basis for producing realistic output in computer graphics.
+I enjoyed putting together the video and I have a new respect for those who do so regularly.
+It was a significant time investment!
+
+The image on the left is linked to the video and the animation on the right demonstrates the project in action. 
+My submission to SoME is linked [here](https://some.3b1b.co/entries/92b0be7a-12f7-42f4-bca6-c20f20a8e19b).
+
 <div style="display: flex; justify-content: center; gap: 1%; flex-wrap: wrap; align-items: flex-start;">
   <a href="https://www.youtube.com/watch?v=Xd1uwJ6biU4" 
      target="_blank" rel="noopener noreferrer" 
