@@ -68,7 +68,7 @@ repo: [https://github.com/nathanstouffer/fractals](https://github.com/nathanstou
 
 This is a fun little project working with fractals.
 It produces two CLI programs: one for moving around the mandelbrot set in real-time and another for generating static fractal images from transformations of the complex plane.
-The static generator can generate fractals of the mandelbrot set, convering power towers, and zeros of complex polynomials using Newton's method.
+The static generator can generate fractals of the mandelbrot set, converging power towers, and Newton's method applied to zeros of complex polynomials.
 It can also rotate the result on the Riemann Sphere which produces some interesting results.
 
 <div style="display: flex; justify-content: center; gap: 0.5rem 1%; flex-wrap: wrap; align-items: flex-start;">
