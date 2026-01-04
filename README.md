@@ -3,6 +3,18 @@
 Hi! I am a software engineer with degrees in both applied mathematics and computer science.
 I have a deep love for learning and enjoy working on hard problems.
 
+On this site, you will see some projects that I have chosen to highlight.
+
+I have a special interest in working with computer graphics as it is a particularly challenging combination of mathematics and computer science.
+Some of my favorite areas to work in are vectors/matrices, 3D camera transformations, volume intersection, computational geometry, and multithreading.
+Though there are many other interesting areas as well!
+
+## Personal
+
+In my personal life, I enjoy being outside, playing board games, and reading.
+My favorite activities are skiing (downhill/backcountry/skate), running, ultimate frisbee, and spikeball.
+My favorite game is Dominion.
+
 <div style="display: flex; justify-content: center; gap: 0.5rem 1%; flex-wrap: wrap; align-items: flex-start;">
     <div style="display: flex; justify-content: center; gap: 0.5rem 1%; flex-wrap: wrap; align-items: flex-start; flex-direction: column; width: 49.5%;">
         <img src="assets/cropped-profile.jpg" 
@@ -16,20 +28,6 @@ I have a deep love for learning and enjoy working on hard problems.
          alt="Runner on a peak" 
          style="width: 49.5%; height: auto; border-radius: 0.5rem;">
 </div>
-
-#
-
-On this site, you will see some projects that I have chosen to highlight.
-
-I have a special interest in working with computer graphics as it is a particularly challenging combination of mathematics and computer science.
-Some of my favorite areas to work in are vectors/matrices, 3D camera transformations, volume intersection, computational geometry, and multithreading.
-Though there are many other interesting areas as well!
-
-## Personal
-
-In my personal life, I enjoy being outside, playing board games, and reading.
-My favorite activities are skiing (downhill/backcountry/skate), running, ultimate frisbee, and spikeball.
-My favorite game is Dominion.
 
 # Projects
 
