@@ -17,6 +17,8 @@ I have a deep love for learning and enjoy working on hard problems.
          style="width: 49.5%; height: auto; border-radius: 0.5rem;">
 </div>
 
+#
+
 On this site, you will see some projects that I have chosen to highlight.
 
 I have a special interest in working with computer graphics as it is a particularly challenging combination of mathematics and computer science.
