@@ -1,12 +1,11 @@
 # About
 
-I am a software engineer with a deep love of learning!
-I have degrees in both applied mathematics and computer science.
-I enjoy working on hard problems.
+Hi! I am a software engineer with degrees in both applied mathematics and computer science.
+I have a deep love for learning and enjoy working on hard problems.
 
+I have a special interest in working with computer graphics as it is a particularly challenging combination of mathematics and computer science (e.g. vectors/matrices, computational geometry, multithreading, real-time response, and many more areas!).
 
-
-I have a special interest in working with computer graphics.
+On this site, you will see some projects that I have chosen to highlight.
 
 # Projects
 
