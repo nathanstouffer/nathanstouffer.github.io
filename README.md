@@ -1,2 +1,3 @@
-# nathanstouffer.github.io
-A repo for my GitHub Pages site
+
+
+![Profile](cropped-profile.jpg)
