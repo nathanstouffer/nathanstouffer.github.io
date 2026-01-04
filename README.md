@@ -19,9 +19,9 @@ My favorite game is Dominion.
 
 ## stf
 
-repo: https://github.com/nathanstouffer/stf
+repo: [https://github.com/nathanstouffer/stf](https://github.com/nathanstouffer/stf)
 
-docs: https://nathanstouffer.github.io/stf/docs/dev/
+docs: [https://nathanstouffer.github.io/stf/docs/dev/](https://nathanstouffer.github.io/stf/docs/dev/)
 
 `stf` is a C++ math library built primarily for graphics.
 It provides graphics primitives useful for 2D and 3D rendering (e.g. vector, matrix, polyline, camera, frustum).
@@ -33,7 +33,7 @@ The implementation I use does a more thorough check and does not return false po
 
 ## hillshade
 
-repo: https://github.com/nathanstouffer/hillshade
+repo: [https://github.com/nathanstouffer/hillshade](https://github.com/nathanstouffer/hillshade)
 
 This project has two components.
 It started off as an exploration of cartographic hillshading as well as a way to utilize `stf` in a real project.
@@ -64,14 +64,14 @@ My submission to SoME is linked [here](https://some.3b1b.co/entries/92b0be7a-12f
 
 ## fractals
 
-repo: https://github.com/nathanstouffer/fractals
+repo: [https://github.com/nathanstouffer/fractals](https://github.com/nathanstouffer/fractals)
 
 This is a fun little project working with fractals.
 It produces two CLI programs: one for moving around the mandelbrot set in real-time and another for generating static fractal images from transformations of the complex plane.
 The static generator can generate fractals of the mandelbrot set, convering power towers, and zeros of complex polynomials using Newton's method.
 It can also rotate the result on the Riemann Sphere which produces some interesting results.
 
-<div style="display: flex; justify-content: center; gap: 0.25rem 1%; flex-wrap: wrap; align-items: flex-start;">
+<div style="display: flex; justify-content: center; gap: 1rem 1%; flex-wrap: wrap; align-items: flex-start;">
     <img src="assets/mandelbrot-green-teardrop.png" 
          alt="Mandelbrot fractal" 
          style="width: 49.5%; height: auto; border-radius: 0.5rem;">
