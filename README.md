@@ -3,6 +3,20 @@
 Hi! I am a software engineer with degrees in both applied mathematics and computer science.
 I have a deep love for learning and enjoy working on hard problems.
 
+<div style="display: flex; justify-content: center; gap: 0.5rem 1%; flex-wrap: wrap; align-items: flex-start;">
+    <div style="display: flex; justify-content: center; gap: 0.5rem 1%; flex-wrap: wrap; align-items: flex-start; flex-direction: column; width: 49.5%;">
+        <img src="assets/cropped-profile.jpg" 
+            alt="Profile photo" 
+            style="width: 100%; height: auto; border-radius: 0.5rem;">
+        <img src="assets/skiing-beartooths.jpg" 
+            alt="Runner on a peak" 
+            style="width: 100%; height: auto; border-radius: 0.5rem;">
+    </div>
+    <img src="assets/the-rut.jpg" 
+         alt="Runner on a peak" 
+         style="width: 49.5%; height: auto; border-radius: 0.5rem;">
+</div>
+
 On this site, you will see some projects that I have chosen to highlight.
 
 I have a special interest in working with computer graphics as it is a particularly challenging combination of mathematics and computer science.
