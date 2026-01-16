@@ -5,9 +5,9 @@ I have a deep love for learning and enjoy working on hard problems.
 
 On this site, you will see some projects that I have chosen to highlight.
 
-I have a special interest in working with computer graphics as it is a particularly challenging combination of mathematics and computer science.
-Some of my favorite areas to work in are 3D camera transformations, volume intersection, computational geometry, and multithreading.
-Though there are many other interesting areas!
+While I find many areas of computer science interesting, I have a special interest in working with computer graphics as it is a particularly challenging combination of mathematics and computer science.
+Some of my favorite pieces are 3D camera transformations, volume intersection, computational geometry, and multithreading.
+Though there are many other interesting areas as well!
 
 ## Personal
 
@@ -81,7 +81,7 @@ My submission to SoME is linked [here](https://some.3b1b.co/entries/92b0be7a-12f
 repo: [https://github.com/nathanstouffer/fractals](https://github.com/nathanstouffer/fractals)
 
 This is a fun little project working with fractals.
-It produces two CLI programs: one for moving around the mandelbrot set in real-time and another for generating static fractal images from transformations of the complex plane.
+It produces two programs: one for moving around the mandelbrot set in real-time and another for generating static fractal images from transformations of the complex plane.
 The static generator can generate fractals of the mandelbrot set, converging power towers, and Newton's method applied to zeros of complex polynomials.
 It can also rotate the result on the Riemann Sphere which produces some interesting results.
 
