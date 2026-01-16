@@ -5,8 +5,8 @@ I have a deep love for learning and enjoy working on hard problems.
 
 On this site, you will see some projects that I have chosen to highlight.
 
-I have a special interest in working with computer graphics as it is a particularly challenging combination of mathematics and computer science.
-Some of my favorite areas to work in are 3D camera transformations, volume intersection, computational geometry, and multithreading.
+While I find many areas of computer science interesting, I have a special interest in working with computer graphics as it is a particularly challenging combination of mathematics and computer science.
+Some of my favorite pieces are 3D camera transformations, volume intersection, computational geometry, and multithreading.
 Though there are many other interesting areas as well!
 
 ## Personal
